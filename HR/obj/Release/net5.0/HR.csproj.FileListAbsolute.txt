@@ -1,0 +1,16 @@
+C:\Users\hrachik.hayryan\Desktop\HR\HR\bin\Release\net5.0\HR.exe
+C:\Users\hrachik.hayryan\Desktop\HR\HR\bin\Release\net5.0\HR.deps.json
+C:\Users\hrachik.hayryan\Desktop\HR\HR\bin\Release\net5.0\HR.runtimeconfig.json
+C:\Users\hrachik.hayryan\Desktop\HR\HR\bin\Release\net5.0\HR.runtimeconfig.dev.json
+C:\Users\hrachik.hayryan\Desktop\HR\HR\bin\Release\net5.0\HR.dll
+C:\Users\hrachik.hayryan\Desktop\HR\HR\bin\Release\net5.0\HR.pdb
+C:\Users\hrachik.hayryan\Desktop\HR\HR\obj\Release\net5.0\HR.csproj.AssemblyReference.cache
+C:\Users\hrachik.hayryan\Desktop\HR\HR\obj\Release\net5.0\HR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrachik.hayryan\Desktop\HR\HR\obj\Release\net5.0\HR.AssemblyInfoInputs.cache
+C:\Users\hrachik.hayryan\Desktop\HR\HR\obj\Release\net5.0\HR.AssemblyInfo.cs
+C:\Users\hrachik.hayryan\Desktop\HR\HR\obj\Release\net5.0\HR.csproj.CoreCompileInputs.cache
+C:\Users\hrachik.hayryan\Desktop\HR\HR\obj\Release\net5.0\HR.dll
+C:\Users\hrachik.hayryan\Desktop\HR\HR\obj\Release\net5.0\refint\HR.dll
+C:\Users\hrachik.hayryan\Desktop\HR\HR\obj\Release\net5.0\HR.pdb
+C:\Users\hrachik.hayryan\Desktop\HR\HR\obj\Release\net5.0\HR.genruntimeconfig.cache
+C:\Users\hrachik.hayryan\Desktop\HR\HR\obj\Release\net5.0\ref\HR.dll
